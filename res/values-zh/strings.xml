@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">短信转发</string>
+    <string name="edit_message">输入转发URL</string>
+    <string name="button_send">保存</string>
+    
+</resources>
+
