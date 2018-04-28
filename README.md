@@ -1,3 +1,5 @@
+**No Longer Maintained 本项目已不再维护，请尝试同类项目 smssync**
+
 # SMSPoster
 
 一个简单的短信转发 APP。它将本机收到的所有短信，通过 POST 请求发送到一个 HTTP 地址。
